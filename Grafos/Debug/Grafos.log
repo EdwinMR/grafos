@@ -1,0 +1,15 @@
+﻿Compilación iniciada a las 24/04/2016 11:19:06 p. m..
+     1>Proyecto "C:\Users\Berny Harold\Desktop\Projects\Grafos\Grafos\Grafos.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\berny harold\desktop\projects\grafos\grafos\source.cpp(208): warning C4101: 'ciclo' : variable local sin referencia
+     1>c:\users\berny harold\desktop\projects\grafos\grafos\source.cpp(191): warning C4715: 'Grafo::buscar' : no todas las rutas de acceso de control devuelven un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Berny Harold\Desktop\Projects\Grafos\Debug\Grafos.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Berny Harold\Desktop\Projects\Grafos\Debug\Grafos.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Berny Harold\Desktop\Projects\Grafos\Debug\Grafos.lib" /MACHINE:X86 Debug\Source.obj
+         Grafos.vcxproj -> C:\Users\Berny Harold\Desktop\Projects\Grafos\Debug\Grafos.exe
+     1>Compilación del proyecto terminada "C:\Users\Berny Harold\Desktop\Projects\Grafos\Grafos\Grafos.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.38
